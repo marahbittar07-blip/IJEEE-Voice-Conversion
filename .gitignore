@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+*.wav
+*.webm
+*.flac
+*.pth
+*.pt
+*.ckpt
+*.bak
+.env
+reproduction_runs/
+*.tar.gz
+*.zip
+*.safetensors

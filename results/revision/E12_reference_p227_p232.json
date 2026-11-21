@@ -1,0 +1,13 @@
+{
+  "pair": "p227->p232",
+  "reference": "p232_409.wav",
+  "reference_duration_seconds": 4.952018140589569,
+  "selection": "p232_409 selected because no p232 recording reaches the original 5.5-second minimum",
+  "evaluation_clips": [
+    "p232_078.wav",
+    "p232_079.wav",
+    "p232_080.wav",
+    "p232_081.wav",
+    "p232_083.wav"
+  ]
+}

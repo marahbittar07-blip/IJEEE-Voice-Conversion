@@ -1,0 +1,8 @@
+file,samplerate,channels,subtype,format,seconds
+kathleen_reference.wav,22050,1,PCM_16,WAV,6.475
+kathleen_conditioning_ref_02.wav,22050,1,PCM_16,WAV,6.136
+kathleen_conditioning_ref_03.wav,22050,1,PCM_16,WAV,6.185
+kathleen_eval_01.wav,48000,1,PCM_16,WAV,3.296
+kathleen_eval_02.wav,48000,1,PCM_16,WAV,3.602
+joe_holdout_01.wav,22050,1,PCM_16,WAV,4.974
+joe_holdout_02.wav,22050,1,PCM_16,WAV,4.454

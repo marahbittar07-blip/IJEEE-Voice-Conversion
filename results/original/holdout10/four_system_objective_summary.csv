@@ -1,0 +1,5 @@
+system,display_name,parameters,mean_similarity,std_similarity,mean_wer,std_wer,mean_latency,std_latency,mean_rtf,std_rtf
+openvoice_only,OpenVoice Only,tau=0.5,0.3162,0.0643,0.0712,0.1074,0.2622,0.0259,0.0501,0.0047
+seed_vc_only,Seed-VC Only,steps=10,0.7034,0.0484,0.0487,0.1052,1.3749,0.1995,0.2609,0.0202
+default_hybrid,Default Hybrid,"tau=0.3, steps=20",0.7335,0.0429,0.083,0.1122,2.2105,0.2986,0.4196,0.0243
+optimized_hybrid,Optimized Hybrid,"tau=0.5, steps=10",0.7203,0.0397,0.0712,0.1074,1.6511,0.2043,0.3139,0.0202

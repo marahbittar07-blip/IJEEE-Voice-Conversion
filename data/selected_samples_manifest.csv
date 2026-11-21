@@ -1,0 +1,5 @@
+role,sample,original_file,prepared_wav,duration_seconds,transcript
+source,1,/content/hybrid_dataset/joe/en-US/0000000001_0300000050_General/0000000160.webm,/content/selected_hybrid_data/joe_source_01.wav,4.973514739229025,The monkey was planning to throw the net like the fishermen did.
+source,2,/content/hybrid_dataset/joe/en-US/0000000001_0300000050_General/0000000229.webm,/content/selected_hybrid_data/joe_source_02.wav,5.833514739229025,"Gaze out to sea, picnic on benches and watch fishermen hook herring."
+source,3,/content/hybrid_dataset/joe/en-US/0000000001_0300000050_General/0000000068.webm,/content/selected_hybrid_data/joe_source_03.wav,6.893514739229025,"We all have our own methods of dealing with money, but here are a couple of saving tricks that will grow your money."
+target_reference,0,/content/hybrid_dataset/kathleen/en_US/arctic_a0407_1592707592.flac,/content/selected_hybrid_data/kathleen_reference.wav,6.474648526077098,"Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria."

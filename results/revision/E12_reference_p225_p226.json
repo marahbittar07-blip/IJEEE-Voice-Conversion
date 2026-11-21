@@ -1,0 +1,13 @@
+{
+  "pair": "p225->p226",
+  "reference": "p226_044.wav",
+  "reference_duration_seconds": 5.570294784580499,
+  "selection": "First recording meeting the original 5.5\u20139.0-second rule",
+  "evaluation_clips": [
+    "p226_068.wav",
+    "p226_069.wav",
+    "p226_070.wav",
+    "p226_071.wav",
+    "p226_072.wav"
+  ]
+}

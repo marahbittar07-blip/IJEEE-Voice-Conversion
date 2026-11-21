@@ -1,0 +1,56 @@
+{
+  "run_id": "20261116_202913_17be5126",
+  "gpu": "Tesla T4",
+  "environment": {
+    "gpu": "Tesla T4",
+    "torch": "2.14.1+cu130",
+    "openvoice_commit": "74a1d147b17a8c3092dd5430504bd83ef6c7eb23",
+    "seedvc_commit": "51383efd921027683c89e5348211d93ff12ac2a8",
+    "seedvc_fp16": true,
+    "openvoice_precision": "fp32",
+    "batch_size": 1,
+    "warmups": 2,
+    "timed_repeats": 3,
+    "cuda_synchronize": true,
+    "openvoice_embeddings_cached": true
+  },
+  "holdout_metadata": "/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data_40/holdout40_metadata.csv",
+  "conditioning_reference": "/content/drive/MyDrive/IJEEE_VC_data/selected_hybrid_data/kathleen_reference.wav",
+  "evaluation_clips": [
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_01.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_02.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_03.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_04.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_05.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_06.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_07.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_08.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_09.wav",
+    "/content/drive/MyDrive/IJEEE_VC_data/kathleen_independent_refs/kathleen_eval_10.wav"
+  ],
+  "systems": [
+    [
+      "OpenVoice-SeedVC (tau 0.1, 10 steps)",
+      "ov_sv",
+      0.1,
+      10
+    ],
+    [
+      "SeedVC-OpenVoice (tau 0.3, 20 steps)",
+      "sv_ov",
+      0.3,
+      20
+    ],
+    [
+      "SeedVC-OpenVoice (tau 0.5, 10 steps)",
+      "sv_ov",
+      0.5,
+      10
+    ]
+  ],
+  "timing_repeats": 3,
+  "end_to_end_repeats": 1,
+  "openvoice_seed": "202700 + sample",
+  "seedvc_seed": "202900 + sample",
+  "results_path": "/content/drive/MyDrive/IJEEE_VC_data/revision_runs_final/E14_extra_20261116_202913_17be5126.csv"
+}

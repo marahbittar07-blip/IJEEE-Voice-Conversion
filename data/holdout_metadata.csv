@@ -1,0 +1,11 @@
+sample,original_id,duration_seconds,transcript,prepared_wav,original_archive_path
+1,4000000077,4.98,We expect that an agent will be available to help you shortly.,/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_01.wav,en-US/4000000001_4000000300_CustomerService/4000000077.webm
+2,3000000204,4.46,"That's good, otherwise we would have to pay for the bike rack.",/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_02.wav,en-US/3000000001_3000000300_Chat/3000000204.webm
+3,0000000107,6.32,It is perfect for families since the kids can safely run around and play in the garden.,/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_03.wav,en-US/0000000001_0300000050_General/0000000107.webm
+4,4000000151,4.24,I now need to take your case to the senior representative.,/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_04.wav,en-US/4000000001_4000000300_CustomerService/4000000151.webm
+5,0300000043,4.44,He earned a master's degree from N E U.,/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_05.wav,en-US/0000000001_0300000050_General/0300000043.webm
+6,0000000002,6.86,Baking is very good for focusing the mind because it often relies on very exact measurements.,/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_06.wav,en-US/0000000001_0300000050_General/0000000002.webm
+7,4000000149,4.46,"However, I am not the right person to help with that.",/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_07.wav,en-US/4000000001_4000000300_CustomerService/4000000149.webm
+8,0000000280,5.32,What people call self-management is in fact self-discipline.,/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_08.wav,en-US/0000000001_0300000050_General/0000000280.webm
+9,4000000236,5.24,"If you ever come across this problem, feel free to reach out to us.",/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_09.wav,en-US/4000000001_4000000300_CustomerService/4000000236.webm
+10,0000000031,6.84,"Red is the color of passion and of love, the red rose, the poinsettia and the poppy.",/content/drive/MyDrive/IJEEE_VC_data/final_holdout_data/joe_holdout_10.wav,en-US/0000000001_0300000050_General/0000000031.webm

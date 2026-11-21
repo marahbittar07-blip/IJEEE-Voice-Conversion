@@ -1,0 +1,13 @@
+{
+  "gpu": "Tesla T4",
+  "torch": "2.14.1+cu130",
+  "openvoice_commit": "74a1d147b17a8c3092dd5430504bd83ef6c7eb23",
+  "seedvc_commit": "51383efd921027683c89e5348211d93ff12ac2a8",
+  "seedvc_fp16": true,
+  "openvoice_precision": "fp32",
+  "batch_size": 1,
+  "warmups": 2,
+  "timed_repeats": 3,
+  "cuda_synchronize": true,
+  "openvoice_embeddings_cached": true
+}

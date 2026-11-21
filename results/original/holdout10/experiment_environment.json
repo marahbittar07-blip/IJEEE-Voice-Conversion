@@ -1,0 +1,9 @@
+{
+  "openvoice_repository": "myshell-ai/OpenVoice",
+  "openvoice_commit": "74a1d147b17a8c3092dd5430504bd83ef6c7eb23",
+  "openvoice_checkpoint": "/content/drive/MyDrive/IJEEE_VC_data/models/OpenVoiceV2/converter/checkpoint.pth",
+  "seed_vc_repository": "Plachtaa/seed-vc",
+  "seed_vc_commit": "51383efd921027683c89e5348211d93ff12ac2a8",
+  "gpu": "NVIDIA Tesla T4",
+  "holdout_samples": 10
+}

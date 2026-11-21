@@ -1,0 +1,9 @@
+,,sim_ecapa,sim_ecapa,sim_wavlm,sim_wavlm
+,,mean,std,mean,std
+pair,anchor,,,,
+p225->p226,source-target,0.139,0.0204,0.8754,0.0193
+p225->p226,target-target,0.6928,0.0779,0.9513,0.0125
+p226->p225,source-target,0.1614,0.0368,0.8238,0.0353
+p226->p225,target-target,0.7954,0.0271,0.9559,0.0201
+p227->p232,source-target,0.0665,0.0489,0.7354,0.0334
+p227->p232,target-target,0.6558,0.084,0.908,0.0333

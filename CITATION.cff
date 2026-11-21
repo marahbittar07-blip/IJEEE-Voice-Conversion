@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Author-review package. Cite the associated paper after the authors confirm its final bibliographic details; DOI and repository URL are pending."
+title: "Stage-Wise Parameter Selection for Cascaded Zero-Shot Voice Conversion with Held-Out and Multi-Pair Evaluation"
+type: software
+version: 0.1.0-review
+license: MIT
+authors:
+  - family-names: Mousa
+    given-names: Allam
+  - family-names: Antari
+    given-names: Sara
+  - family-names: Bittar
+    given-names: Marah

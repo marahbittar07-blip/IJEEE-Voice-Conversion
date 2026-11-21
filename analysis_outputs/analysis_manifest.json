@@ -1,0 +1,36 @@
+{
+  "seed": 20261119,
+  "resamples": 20000,
+  "python": "3.13.18",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0",
+  "wilcoxon": {
+    "zero_method": "wilcox",
+    "correction": false,
+    "alternative": "two-sided",
+    "method": "auto"
+  },
+  "selection": {
+    "tau": 0.1,
+    "steps": 10,
+    "similarity_threshold": 0.7347692741109825
+  },
+  "latency_saving_percent": 28.655630419734358,
+  "inputs": {
+    "results/revision/E10_extra_refs.csv": "122c73fb84b4e63806a27df507cb88738a4a2dbd1ff73db185d883816d3b179a",
+    "results/revision/E11_session_timing.csv": "9cda983a3926b729c2249c98e8a6050ed7d3e4a185726837f21cfcf7da721151",
+    "results/revision/E12_vctk_anchors.csv": "360a88f4986803b529723423ffa3936f8fbbcbed0f34a6e61376dddd46f9d367",
+    "results/revision/E12_vctk_pairs.csv": "da75fb949fda8ed30b5391bbbc23d3f00eea822bb22e77d0e3308c2b86a3ef9a",
+    "results/revision/E14_extra_20261116_202913_17be5126.csv": "c0677aa0227557d74517687edd6be8f5ff28cf631d70ebf92a51ba6a75d56c76",
+    "results/revision/E7_anchors.csv": "f481497f65140b1e8da7c4287d0665e08d746bc7b2790cd56dcf08da3026028a",
+    "results/revision/E7_rescore_existing.csv": "f942d7000864d4d0a77a131b8e7520d3630f4dbff940e6306dcff3a8c1099638",
+    "results/revision/E8_grid_5x5_seeds.csv": "31b730fbf0469880e29d5b96e348fcb6258545a9d1e87b68c34e48a96e380068",
+    "results/revision/E9_holdout40.csv": "602f80794009485021c65607a3e7be91c5ecb1da7d296dc0375779c6868f78dc",
+    "results/revision/holdout40_metadata.csv": "f248f5baa9dc43eeaa5d01df90066f1e1870cfb94cd58838ae4d5647103b1a28",
+    "results/yourtts/E15_reference_format.csv": "dabc0cb89a604e12b1c64a2ffe075804e89056283ff57fdbd00b14b2b9a21a0b",
+    "results/yourtts/E15_yourtts_generation.csv": "032c9e1feae0dc27883f38b91e52e7cd05f77107e45ac13154a4e3291595e5b4",
+    "results/yourtts/E15_yourtts_holdout40.csv": "d0d6773cd1886a93760fa017c9268b8ac62d0f65933ea513eb6eb77b3dea92e4"
+  },
+  "status": "Independent CPU reconstruction; original bootstrap seed/options unavailable. Figures are new renderings; no audio/model rerun."
+}

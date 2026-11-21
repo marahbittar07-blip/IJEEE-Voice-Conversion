@@ -1,0 +1,75 @@
+role,sample,corpus,file_id,duration_s,transcript
+holdout,1,Joe 1.0,4000000077,4.98,We expect that an agent will be available to help you shortly.
+holdout,2,Joe 1.0,3000000204,4.46,"That's good, otherwise we would have to pay for the bike rack."
+holdout,3,Joe 1.0,0000000107,6.32,It is perfect for families since the kids can safely run around and play in the garden.
+holdout,4,Joe 1.0,4000000151,4.24,I now need to take your case to the senior representative.
+holdout,5,Joe 1.0,0300000043,4.44,He earned a master's degree from N E U.
+holdout,6,Joe 1.0,0000000002,6.86,Baking is very good for focusing the mind because it often relies on very exact measurements.
+holdout,7,Joe 1.0,4000000149,4.46,"However, I am not the right person to help with that."
+holdout,8,Joe 1.0,0000000280,5.32,What people call self-management is in fact self-discipline.
+holdout,9,Joe 1.0,4000000236,5.24,"If you ever come across this problem, feel free to reach out to us."
+holdout,10,Joe 1.0,0000000031,6.84,"Red is the color of passion and of love, the red rose, the poinsettia and the poppy."
+holdout,11,Joe 1.0,4000000070,4.76,We’ll review your information and have an answer for you very shortly.
+holdout,12,Joe 1.0,4000000071,5.76,"We apologize, but all of our agents are currently assisting other customers."
+holdout,13,Joe 1.0,4000000107,4.74,"If you'd like to wait, we can save your information for you."
+holdout,14,Joe 1.0,0000000167,5.28,"This is, however, accompanied by a lack of fast twitch fibers."
+holdout,15,Joe 1.0,4000000017,5.26,I wanted to mention that this chat may be recorded for quality assurance.
+holdout,16,Joe 1.0,0000000155,5.26,This simultaneous Home Movies posting is at an end.
+holdout,17,Joe 1.0,0300000009,4.74,He will be making a position change from tight end to O L.
+holdout,18,Joe 1.0,4000000279,4.74,Make sure you select the enterprise version of the software.
+holdout,19,Joe 1.0,0000000269,5.48,It's worthwhile mentioning that is the only place near to town.
+holdout,20,Joe 1.0,4000000082,5.48,"We do apologize about that wait, but we’re ready to assist you."
+holdout,21,Joe 1.0,4000000253,5.28,Can you please check the system again and make sure it is the correct container?
+holdout,22,Joe 1.0,0300000029,4.98,Stay tuned to K S Q P for more great music.
+holdout,23,Joe 1.0,0300000044,4.24,Please send me the U R L of the website.
+holdout,24,Joe 1.0,0000000293,5.8,"There's new territory, there's new places to go, new things to explore."
+holdout,25,Joe 1.0,0000000250,6.32,"Its biggest imports are unassembled auto parts, computers and machinery."
+holdout,26,Joe 1.0,4000000141,4.48,May we suggest this product as an alternative?
+holdout,27,Joe 1.0,4000000009,4.46,"Hello, and thank you for using our live chat service."
+holdout,28,Joe 1.0,0100000065,4.76,Why were no proactive measures being taken on this matter?
+holdout,29,Joe 1.0,4000000058,5.26,May I put you on hold for a moment while they review your information?
+holdout,30,Joe 1.0,0000000190,5.26,You'd be surprised at just how outrageous or outlandish some of the claims are.
+holdout,31,Joe 1.0,0000000052,5.3,"In all of its sweet seasons here, it had never failed to touch my soul."
+holdout,32,Joe 1.0,0000000283,6.32,"Separate budgets move daily with spot news, features, sports and commentary."
+holdout,33,Joe 1.0,4000000219,4.48,"I’m just checking the status of a billing, please."
+holdout,34,Joe 1.0,0000000125,7.34,Regardless of your familiarity with the sport you can combine your holiday with a spot of horse-riding.
+holdout,35,Joe 1.0,3000000002,4.74,"After that, I couldn't find the strange man again."
+holdout,36,Joe 1.0,4000000258,4.48,Huge thanks for using our product for this long.
+holdout,37,Joe 1.0,0000000201,4.78,"Firstly, it easily fit any pot or bowl we put it in."
+holdout,38,Joe 1.0,0000000016,5.78,"Okay, but I want the furniture in the living room to be yellow and dark blue."
+holdout,39,Joe 1.0,0000000046,5.74,"Oh, it had been cold and snowy two days ago, and warm and rainy yesterday."
+holdout,40,Joe 1.0,0000000036,6.34,"At one point, the elderly couple signaled to me that they were ready to order the meal."
+tuning,1,Joe 1.0,0000000160,,
+tuning,2,Joe 1.0,0000000229,,
+tuning,3,Joe 1.0,0000000068,,
+conditioning_reference,,Kathleen 1.0,arctic_a0407_1592707592.flac,6.475,
+extra_reference,,Kathleen 1.0,arctic_a0507_1592703857.flac,6.136,
+extra_reference,,Kathleen 1.0,arctic_b0496_1592526615.flac,6.185,
+evaluation_clip,,Kathleen 1.0,arctic_a0001_1592748574.flac,3.296,
+evaluation_clip,,Kathleen 1.0,arctic_a0009_1592748391.flac,3.602,
+evaluation_clip,,Kathleen 1.0,arctic_a0017_1592748186.flac,4.335,
+evaluation_clip,,Kathleen 1.0,arctic_a0027_1592747925.flac,3.904,
+evaluation_clip,,Kathleen 1.0,arctic_a0046_1592747498.flac,3.742,
+evaluation_clip,,Kathleen 1.0,arctic_a0065_1592747054.flac,3.397,
+evaluation_clip,,Kathleen 1.0,arctic_a0073_1592746827.flac,3.474,
+evaluation_clip,,Kathleen 1.0,arctic_a0084_1592746501.flac,4.147,
+evaluation_clip,,Kathleen 1.0,arctic_a0109_1592746066.flac,2.765,
+evaluation_clip,,Kathleen 1.0,arctic_a0121_1592745782.flac,3.490,
+vctk_reference p225->p226,,VCTK 0.92,p226_044.wav,5.57,
+vctk_evaluation_clip p225->p226,,VCTK 0.92,p226_068.wav,,
+vctk_evaluation_clip p225->p226,,VCTK 0.92,p226_069.wav,,
+vctk_evaluation_clip p225->p226,,VCTK 0.92,p226_070.wav,,
+vctk_evaluation_clip p225->p226,,VCTK 0.92,p226_071.wav,,
+vctk_evaluation_clip p225->p226,,VCTK 0.92,p226_072.wav,,
+vctk_reference p226->p225,,VCTK 0.92,p225_044.wav,6.874,
+vctk_evaluation_clip p226->p225,,VCTK 0.92,p225_090.wav,,
+vctk_evaluation_clip p226->p225,,VCTK 0.92,p225_092.wav,,
+vctk_evaluation_clip p226->p225,,VCTK 0.92,p225_103.wav,,
+vctk_evaluation_clip p226->p225,,VCTK 0.92,p225_104.wav,,
+vctk_evaluation_clip p226->p225,,VCTK 0.92,p225_108.wav,,
+vctk_reference p227->p232,,VCTK 0.92,p232_409.wav,4.952,
+vctk_evaluation_clip p227->p232,,VCTK 0.92,p232_078.wav,,
+vctk_evaluation_clip p227->p232,,VCTK 0.92,p232_079.wav,,
+vctk_evaluation_clip p227->p232,,VCTK 0.92,p232_080.wav,,
+vctk_evaluation_clip p227->p232,,VCTK 0.92,p232_081.wav,,
+vctk_evaluation_clip p227->p232,,VCTK 0.92,p232_083.wav,,

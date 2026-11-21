@@ -1,0 +1,20 @@
+{
+  "gpu": "Tesla T4",
+  "torch": "2.14.1+cu130",
+  "coqui_tts": "0.28.0",
+  "transformers": "5.22.1",
+  "tts_model": "tts_models/multilingual/multi-dataset/your_tts",
+  "tts_model_licence": "CC BY-NC-ND 4.0",
+  "asr_model": "openai/whisper-large-v3",
+  "asr_precision": "fp16",
+  "tts_precision": "fp32",
+  "batch_size": 1,
+  "warmups": 2,
+  "timed_repeats": 3,
+  "cuda_synchronize": true,
+  "speaker_embedding_inside_timed_span": true,
+  "speaker_encoder_use_cuda": true,
+  "device_fix": "Explicitly enabled speaker_manager.use_cuda and moved its encoder to CUDA",
+  "split_sentences": false,
+  "tts_seed": "202900 + sample"
+}

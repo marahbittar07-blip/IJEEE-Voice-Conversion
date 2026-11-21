@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-20",
+  "passed": [
+    "organized notebook and script Python syntax",
+    "archived results/data/config byte equality against input package",
+    "inference/scoring core function AST equality with archived originals",
+    "E9 writer 280-row fixture, multiline quoting, NaN and malformed/schema rejection",
+    "saved-result row count and key validation",
+    "deterministic reconstruction of paired-statistics CSV on repeated run",
+    "synthetic local-export staging and file-layout preflight",
+    "exact R10 Table V reproduction with scripts/paired_stats_r10.py (18 of 18 rows)"
+  ],
+  "not_performed": [
+    "fresh Colab install",
+    "GPU inference/scoring rerun",
+    "reconstruction from original public corpora alone"
+  ],
+  "selected_tau": 0.1,
+  "selected_steps": 10,
+  "latency_saving_percent": 28.66,
+  "caution": "Private Drive folder name replaced by IJEEE_VC_data in archived records; Table V reproduced exactly by scripts/paired_stats_r10.py."
+}
