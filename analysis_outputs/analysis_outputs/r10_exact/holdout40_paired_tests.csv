@@ -1,0 +1,85 @@
+a,b,metric,n,mean_diff,ci95_lo,ci95_hi,ci90_lo,ci90_hi,wilcoxon_p,n_lower,n_higher,margin,equivalent
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",sim_ecapa_cond,40,-0.0071,-0.0121,-0.0019,-0.0113,-0.0028,0.0115,29,11,0.03,True
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",sim_ecapa_eval,40,-0.0074,-0.0121,-0.0026,-0.0113,-0.0034,0.0032,30,10,0.03,True
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",sim_wavlm_eval,40,0.0023,0.0002,0.0042,0.0005,0.0039,0.0584,14,26,0.03,True
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",wer_large,40,-0.0043,-0.0197,0.0129,-0.0175,0.0097,0.3722,6,3,0.05,True
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",cer_large,40,-0.0025,-0.0094,0.004,-0.0083,0.003,0.5147,6,3,0.05,True
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",utmos,40,0.0009,-0.0701,0.0737,-0.0586,0.0625,0.9841,20,20,,
+"Selected cascade (tau 0.1, 10)","Reference cascade (tau 0.3, 20)",latency,40,-0.6075,-0.6344,-0.5787,-0.6301,-0.5836,0.0,40,0,,
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),sim_ecapa_cond,40,0.021,0.0127,0.0297,0.0141,0.0281,0.0,11,29,0.03,True
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),sim_ecapa_eval,40,0.0113,0.0044,0.0183,0.0055,0.0172,0.0018,11,29,0.03,True
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),sim_wavlm_eval,40,-0.002,-0.0045,0.0003,-0.0041,-0.0001,0.2766,19,21,0.03,True
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),wer_large,40,0.0372,0.0078,0.0791,0.0108,0.071,0.0282,1,9,0.05,False
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),cer_large,40,0.0235,0.0062,0.0465,0.008,0.0425,0.0069,1,9,0.05,True
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),utmos,40,0.0339,-0.0542,0.1215,-0.0397,0.1076,0.6273,19,21,,
+"Selected cascade (tau 0.1, 10)",Seed-VC (10 steps),latency,40,0.2744,0.2532,0.3006,0.256,0.296,0.0,0,40,,
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",sim_ecapa_cond,40,0.0093,0.0008,0.0181,0.0022,0.0166,0.0703,15,25,0.03,True
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",sim_ecapa_eval,40,0.0026,-0.0046,0.0097,-0.0035,0.0087,0.6368,21,19,0.03,True
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",sim_wavlm_eval,40,-0.0006,-0.0035,0.0022,-0.003,0.0018,0.7547,21,19,0.03,True
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",wer_large,40,0.0341,0.0037,0.0771,0.0067,0.0689,0.0684,1,7,0.05,False
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",cer_large,40,0.0226,0.0045,0.0468,0.0063,0.0425,0.0109,1,8,0.05,True
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",utmos,40,0.0645,-0.0229,0.1543,-0.0091,0.139,0.2535,17,23,,
+"Selected cascade (tau 0.1, 10)","Seed-VC (25 steps, default)",latency,40,-0.6374,-0.6637,-0.6089,-0.6595,-0.6136,0.0,40,0,,
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",sim_ecapa_cond,40,0.0041,-0.0006,0.0088,0.0002,0.008,0.0793,14,26,0.03,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",sim_ecapa_eval,40,0.0004,-0.0038,0.0045,-0.0031,0.0038,0.889,21,19,0.03,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",sim_wavlm_eval,40,0.0005,-0.0017,0.0027,-0.0013,0.0024,0.6753,19,21,0.03,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",wer_large,40,-0.0024,-0.0222,0.0189,-0.019,0.0152,0.5746,6,4,0.05,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",cer_large,40,0.0019,-0.0097,0.0149,-0.0079,0.0125,1.0,7,4,0.05,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",utmos,40,-0.006,-0.0672,0.0568,-0.0577,0.0466,0.4929,22,18,,
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.5, 10)",latency,40,-0.004,-0.0225,0.0147,-0.0196,0.0118,0.4125,22,18,,
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",sim_ecapa_cond,40,0.0012,-0.0026,0.0052,-0.0021,0.0045,0.7146,22,18,0.03,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",sim_ecapa_eval,40,-0.0011,-0.0047,0.0027,-0.0041,0.0021,0.4845,21,19,0.03,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",sim_wavlm_eval,40,-0.0001,-0.0019,0.0018,-0.0016,0.0015,0.9417,18,22,0.03,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",wer_large,40,0.0008,-0.0186,0.0219,-0.0157,0.0182,0.8782,6,4,0.05,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",cer_large,40,0.0022,-0.0064,0.0124,-0.0052,0.0106,0.7989,6,4,0.05,True
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",utmos,40,-0.0269,-0.1055,0.0544,-0.0927,0.0401,0.3011,23,17,,
+"Selected cascade (tau 0.1, 10)","Cascade (tau 0.3, 10)",latency,40,-0.0123,-0.0338,0.0127,-0.0305,0.008,0.025,28,12,,
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",sim_ecapa_cond,40,-0.0019,-0.0066,0.0028,-0.0059,0.002,0.4125,22,18,0.03,True
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",sim_ecapa_eval,40,-0.0032,-0.0067,0.0003,-0.0062,-0.0002,0.2064,23,17,0.03,True
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",sim_wavlm_eval,40,-0.0005,-0.0025,0.0016,-0.0022,0.0013,0.868,18,22,0.03,True
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",wer_large,40,-0.0124,-0.0369,0.0067,-0.0325,0.0043,0.4065,5,4,0.05,True
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",cer_large,40,-0.0082,-0.0211,0.0021,-0.0189,0.0007,0.3329,5,5,0.05,True
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",utmos,40,-0.0347,-0.1037,0.0343,-0.0921,0.0228,0.2535,25,15,,
+"Cascade (tau 0.5, 20)","Reference cascade (tau 0.3, 20)",latency,40,0.0011,-0.0106,0.0161,-0.0091,0.0133,0.1316,27,13,,
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",sim_ecapa_cond,40,0.0098,0.0023,0.0177,0.0034,0.0164,0.0299,15,25,0.03,True
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",sim_ecapa_eval,40,0.0052,-0.002,0.0128,-0.0009,0.0115,0.2535,18,22,0.03,True
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",sim_wavlm_eval,40,0.0024,-0.0009,0.0056,-0.0004,0.0051,0.1744,15,25,0.03,True
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",wer_large,40,-0.0064,-0.0235,0.0056,-0.0214,0.0042,0.593,2,1,0.05,True
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",cer_large,40,-0.0033,-0.0104,0.0011,-0.0091,0.0005,0.285,2,1,0.05,True
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",utmos,40,-0.0734,-0.1069,-0.0399,-0.1017,-0.0454,0.0001,31,9,,
+"Seed-OpenVoice (tau 0.5, 10)","Seed-OpenVoice (tau 0.3, 20)",latency,40,-0.5934,-0.6102,-0.5766,-0.6075,-0.5793,0.0,40,0,,
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),sim_ecapa_cond,40,-0.2098,-0.2295,-0.1903,-0.2263,-0.1934,0.0,40,0,0.03,False
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),sim_ecapa_eval,40,-0.1148,-0.1288,-0.101,-0.1268,-0.1031,0.0,40,0,0.03,False
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),sim_wavlm_eval,40,-0.0235,-0.0303,-0.0175,-0.0291,-0.0183,0.0,37,3,0.03,True
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),wer_large,40,-0.0,-0.0086,0.0086,-0.0071,0.007,1.0,2,2,0.05,True
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),cer_large,40,-0.0006,-0.0033,0.0016,-0.0028,0.0012,0.715,2,2,0.05,True
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),utmos,40,-0.1451,-0.2074,-0.0806,-0.1974,-0.0915,0.0,34,6,,
+"Seed-OpenVoice (tau 0.5, 10)",Seed-VC (10 steps),latency,40,0.3056,0.2959,0.3152,0.2974,0.3137,0.0,0,40,,
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",sim_ecapa_cond,40,-0.2478,-0.2676,-0.2283,-0.2644,-0.2315,0.0,40,0,0.03,False
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",sim_ecapa_eval,40,-0.1387,-0.1528,-0.1247,-0.1506,-0.1269,0.0,40,0,0.03,False
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",sim_wavlm_eval,40,-0.0216,-0.0284,-0.0152,-0.0273,-0.0162,0.0,38,2,0.03,True
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",wer_large,40,-0.0351,-0.0709,-0.0057,-0.065,-0.0094,0.0453,9,2,0.05,False
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",cer_large,40,-0.0233,-0.0472,-0.0048,-0.043,-0.0068,0.0229,10,2,0.05,True
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",utmos,40,-0.1047,-0.1693,-0.0388,-0.1589,-0.05,0.0028,29,11,,
+"Seed-OpenVoice (tau 0.3, 20)","Reference cascade (tau 0.3, 20)",latency,40,0.0172,0.0071,0.0272,0.0087,0.0256,0.0018,12,28,,
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",sim_ecapa_cond,40,-0.2308,-0.251,-0.2115,-0.2475,-0.2145,0.0,40,0,0.03,False
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",sim_ecapa_eval,40,-0.1261,-0.1417,-0.1106,-0.1392,-0.113,0.0,40,0,0.03,False
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",sim_wavlm_eval,40,-0.0214,-0.0282,-0.0156,-0.027,-0.0165,0.0,36,4,0.03,True
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",wer_large,40,-0.0373,-0.0798,-0.0075,-0.0718,-0.01,0.0176,7,0,0.05,False
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",cer_large,40,-0.0241,-0.0481,-0.0059,-0.0438,-0.0078,0.0077,9,0,0.05,True
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",utmos,40,-0.179,-0.2555,-0.1044,-0.243,-0.1161,0.0001,29,11,,
+"Seed-OpenVoice (tau 0.5, 10)","Selected cascade (tau 0.1, 10)",latency,40,0.0312,0.0053,0.0525,0.0101,0.0496,0.0001,8,32,,
+YourTTS (ASR-mediated),Seed-VC (10 steps),sim_ecapa_cond,40,-0.1733,-0.1918,-0.154,-0.1889,-0.1573,0.0,40,0,0.03,False
+YourTTS (ASR-mediated),Seed-VC (10 steps),sim_ecapa_eval,40,-0.2224,-0.2379,-0.2065,-0.2356,-0.2091,0.0,40,0,0.03,False
+YourTTS (ASR-mediated),Seed-VC (10 steps),sim_wavlm_eval,40,-0.0134,-0.0182,-0.0089,-0.0173,-0.0096,0.0,33,7,0.03,True
+YourTTS (ASR-mediated),Seed-VC (10 steps),wer_large,40,0.0107,-0.0043,0.029,-0.0022,0.0259,0.173,2,4,0.05,True
+YourTTS (ASR-mediated),Seed-VC (10 steps),cer_large,40,0.0061,-0.0017,0.0182,-0.0009,0.0162,0.3454,2,4,0.05,True
+YourTTS (ASR-mediated),Seed-VC (10 steps),utmos,40,-0.4337,-0.5209,-0.3443,-0.507,-0.3578,0.0,35,5,,
+YourTTS (ASR-mediated),Seed-VC (10 steps),latency,40,-0.1789,-0.2227,-0.1321,-0.2163,-0.14,0.0,34,6,,
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",sim_ecapa_cond,40,-0.1942,-0.212,-0.1761,-0.2093,-0.179,0.0,40,0,0.03,False
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",sim_ecapa_eval,40,-0.2337,-0.2499,-0.2179,-0.2472,-0.2205,0.0,40,0,0.03,False
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",sim_wavlm_eval,40,-0.0113,-0.0168,-0.006,-0.0159,-0.0069,0.0003,30,10,0.03,True
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",wer_large,40,-0.0265,-0.0721,0.0105,-0.0643,0.0055,0.3816,9,4,0.05,False
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",cer_large,40,-0.0174,-0.0437,0.0052,-0.0392,0.002,0.1005,9,4,0.05,True
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",utmos,40,-0.4676,-0.5695,-0.3582,-0.5542,-0.3774,0.0,36,4,,
+YourTTS (ASR-mediated),"Selected cascade (tau 0.1, 10)",latency,40,-0.4534,-0.5012,-0.4024,-0.494,-0.4103,0.0,39,1,,

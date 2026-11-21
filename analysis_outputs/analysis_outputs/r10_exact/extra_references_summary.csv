@@ -1,0 +1,7 @@
+reference,system,sim_ecapa_cond,sim_ecapa_eval,sim_wavlm_eval,wer_large,utmos
+kathleen_conditioning_ref_02.wav,"Reference cascade (tau 0.3, 20)",0.7631,0.5184,0.9295,0.0326,4.0363
+kathleen_conditioning_ref_02.wav,Seed-VC (10 steps),0.7345,0.4919,0.9367,0.0163,4.0032
+kathleen_conditioning_ref_02.wav,"Selected cascade (tau 0.5, 10)",0.7499,0.5128,0.9329,0.0349,4.0939
+kathleen_conditioning_ref_03.wav,"Reference cascade (tau 0.3, 20)",0.7411,0.5411,0.931,0.0455,4.0985
+kathleen_conditioning_ref_03.wav,Seed-VC (10 steps),0.7128,0.5244,0.9354,0.0177,4.0848
+kathleen_conditioning_ref_03.wav,"Selected cascade (tau 0.5, 10)",0.7324,0.536,0.9342,0.0411,4.1179

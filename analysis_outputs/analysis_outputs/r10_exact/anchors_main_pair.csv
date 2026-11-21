@@ -1,0 +1,5 @@
+,,sim_ecapa,sim_ecapa,sim_wavlm,sim_wavlm
+,,mean,std,mean,std
+pair,anchor,,,,
+joe->kathleen,source-target,0.023,0.0311,0.4951,0.0473
+joe->kathleen,target-target,0.7092,0.0448,0.9727,0.0151
